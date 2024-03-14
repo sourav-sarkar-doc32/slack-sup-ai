@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+##  If having git issue try doing similar
+
+[Gpt Help for Git](https://chat.openai.com/share/608fe544-1da6-4e9e-9291-54de611c17ad)
+
+
 ## Getting Started
 
 First, run the development server:
