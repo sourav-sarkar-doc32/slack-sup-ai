@@ -17,7 +17,6 @@ export default function Home() {
             Sign out
           </button>
         </header>
-
         <main className="flex flex-1 flex-col items-center justify-center w-full px-6">
           <Component />
           <p className="mt-8 text-center text-gray-600 dark:text-gray-400">
