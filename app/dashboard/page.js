@@ -10,7 +10,7 @@ export default function Dashboard() {
       <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-700 dark:text-gray-200">
         <div className="max-w-4xl mx-auto py-12">
           <h1 className="text-3xl font-bold mb-4">Dashboard</h1>
-          <p className="mb-2">You're logged in as <strong>{session.user.email}</strong></p>
+          <p className="mb-2"><p>You&apos;re logged in as {session.user.email}</p></p>
           <button
             onClick={() => signOut()}
             className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded"
